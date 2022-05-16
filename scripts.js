@@ -12,3 +12,5 @@ window.onload = function() {
 };
 
 console.log('--------------');
+
+/* Iteración 2 */
